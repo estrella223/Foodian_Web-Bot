@@ -1,0 +1,316 @@
+F_code,product,L_code,L_class,M_code,M_class,S_code,S_class,B_code,brand,images_dir
+DHDB0100,Premium비타500로열폴리스,D,음료,HD,혼합음료,B0100,비타500,GD,광동제약,./images/drink/kwangdong/Premium비타500로열폴리스.jpg
+RCPE3002,가쓰오 우동왕뚜껑,R,라면,CP,컵라면,E3002,왕뚜껑,PD,팔도,./images/ramyeon/paldo/가쓰오 우동왕뚜껑.jpeg
+SGJG0100,감자깡,S,과자,GJ,과자,G0100,감자깡,NS,농심,./images/snack/nongshim/감자깡.jpg
+RBJG0200,감자면,R,라면,BJ,봉지라면,G0200,감자면,NS,농심,./images/ramyeon/nongshim/감자면.PNG
+SGJG0300,감자품격트러플,S,과자,GJ,과자,G0300,감자품격,CR,크라운제과,./images/snack/crown/감자품격트러플.jpg
+DHDG0400,게토레이 레몬,D,음료,HD,혼합음료,G0400,게토레이,LC,롯데칠성음료(주),./images/drink/chilsung/게토레이 레몬.jpg
+DHDG0401,게토레이 블루볼트,D,음료,HD,혼합음료,G0401,게토레이,LC,롯데칠성음료(주),./images/drink/chilsung/게토레이 블루볼트.jpg
+DHDG0402,게토레이 오렌지,D,음료,HD,혼합음료,G0402,게토레이,LC,롯데칠성음료(주),./images/drink/chilsung/게토레이 오렌지.jpg
+SGJG0500,고구마깡,S,과자,GJ,과자,G0500,고구마깡,NS,농심,./images/snack/nongshim/고구마깡.jpg
+SGJG0600,고래밥 볶음양념,S,과자,GJ,과자,G0600,고래밥,OR,㈜오리온,./images/snack/nongshim/고래밥 볶음양념.jpg
+SGJG0700,고소미,S,과자,GJ,과자,G0700,고소미,OR,㈜오리온 제4청주공장,./images/snack/nongshim/고소미.jpg
+RCPG0800,공화춘 삼선짬뽕컵,R,라면,CP,컵라면,G0800,공화춘,PD,팔도,./images/ramyeon/paldo/공화춘 삼선짬뽕컵.jpeg
+DATG0900,광동 대추쌍화,D,음료,AT,액상차,G0900,광동시리즈,GD,광동제약,./images/drink/kwangdong/광동 대추쌍화.png
+DHDG0901,광동 복분자,D,음료,HD,혼합음료,G0901,광동시리즈,GD,광동제약,./images/drink/kwangdong/광동 복분자.jpg
+DATG0902,광동 생강쌍화,D,음료,AT,액상차,G0902,광동시리즈,GD,광동제약,./images/drink/kwangdong/광동 생강쌍화.jpg
+DATG0903,광동 쌍화골드,D,음료,AT,액상차,G0903,광동시리즈,GD,광동제약,./images/drink/kwangdong/광동 쌍화골드.jpg
+DHDG0904,광동 아이루테인10 Lu-10,D,음료,HD,혼합음료,G0904,광동시리즈,GD,광동제약,./images/drink/kwangdong/광동 아이루테인10 Lu-10.jpg
+DATG0905,광동 진쌍화,D,음료,AT,액상차,G0905,광동시리즈,GD,광동제약,./images/drink/kwangdong/광동 진쌍화.jpg
+DHDG0906,광동 홍삼꿀D,D,음료,HD,혼합음료,G0906,광동시리즈,GD,광동제약,./images/drink/kwangdong/광동 홍삼꿀D.jpg
+SBSG1000,구운감자,S,과자,BS,비스킷,G1000,구운감자,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/구운감자.jpg
+RBJG1100,김치라면,R,라면,BJ,봉지라면,G1100,김치라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/김치라면.jpg
+RCPG1101,김치면,R,라면,CP,컵라면,G1101,김치면,OT,오뚜기라면(주),./images/ramyeon/ottogi/김치면.jpg
+RCPG1200,김치사발면,R,라면,CP,컵라면,G1200,김치사발면,NS,농심,./images/ramyeon/nongshim/김치사발면.PNG
+RBJB0200,까르보불닭볶음면,R,라면,BJ,봉지라면,B0200,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/까르보불닭볶음면.jpg
+DTSG1300,깨수깡,D,음료,TS,탄산음료,G1300,깨수깡,LC,롯데칠성음료(주),./images/drink/chilsung/깨수깡.jpg
+SGJG1400,꼬깔콘 고소한 맛,S,과자,GJ,과자,G1400,꼬깔콘,LT,롯데제과㈜,./images/snack/nongshim/꼬깔콘 고소한맛.jpg
+SGJG1401,꼬깔콘군옥수수맛,S,과자,GJ,과자,G1401,꼬깔콘,LT,롯데제과㈜,./images/snack/nongshim/꼬깔콘 군옥수수맛.jpg
+SGJG1402,꼬깔콘매콤달콤한맛,S,과자,GJ,과자,G1402,꼬깔콘,LT,롯데제과㈜,./images/snack/nongshim/꼬깔콘 매콤달콤한맛.jpg
+SGJG1500,꼬북칩 달콤한 콩가루 인절미맛,S,과자,GJ,과자,G1500,꼬북칩,OR,㈜오리온 제5청주공장,./images/snack/nongshim/꼬북칩 달콤한 콩가루 인절미맛.jpg
+SGJG1501,꼬북칩 콘스프맛,S,과자,GJ,과자,G1501,꼬북칩,OR,㈜오리온 제5청주공장,./images/snack/nongshim/꼬북칩 콘스프맛.jpg
+SGJG1600,꿀꽈배기,S,과자,GJ,과자,G1600,꿀꽈배기,NS,농심,./images/snack/nongshim/꿀꽈배기.jpg
+RBJN0100,나가사끼짬뽕,R,라면,BJ,봉지라면,N0100,나가사끼짬뽕,SY,삼양식품(주),./images/ramyeon/samyang/나가사끼짬뽕.jpg
+DTSN0200,나랑드사이다,D,음료,TS,탄산음료,N0200,나랑드사이다,DO,동아오츠카(주),./images/drink/donga/나랑드사이다.jpeg
+SGJD0100,닭다리후라이드치킨,S,과자,GJ,과자,D0100,닭다리후라이드치킨,NS,농심,./images/snack/nongshim/닭다리후라이드치킨.jpg
+SGJE0200,더욱 달콤하고 바삭해진 엄마손파이,S,과자,GJ,과자,E0200,엄마손파이,LT,롯데제과㈜,./images/snack/nongshim/더욱달콤하고 바삭해진 엄마손파이.jpg
+SCKM0100,더욱 커지고 맛있어진 마가렛트,S,과자,CK,쿠키,M0100,마가렛트,LT,롯데제과㈜,./images/snack/nongshim/더욱 커지고 맛있어진 마가렛트.jpg
+DTSD0200,데미소다 레몬,D,음료,TS,탄산음료,D0200,데미소다,DO,동아오츠카(주),./images/drink/donga/데미소다 레몬.jpg
+DTSD0201,데미소다 복숭아,D,음료,TS,탄산음료,D0201,데미소다,DO,동아오츠카(주),./images/drink/donga/데미소다 복숭아.jpg
+DTSD0202,데미소다 애플,D,음료,TS,탄산음료,D0202,데미소다,DO,동아오츠카(주),./images/drink/donga/데미소다 애플.jpg
+DTSD0203,데미소다 오렌지,D,음료,TS,탄산음료,D0203,데미소다,DO,동아오츠카(주),./images/drink/donga/데미소다 오렌지.jpg
+DTSD0204,데미소다 자몽,D,음료,TS,탄산음료,D0204,데미소다,DO,동아오츠카(주),./images/drink/donga/데미소다 자몽.jpg
+DTSD0205,데미소다 청포도,D,음료,TS,탄산음료,D0205,데미소다,DO,동아오츠카(주),./images/drink/donga/데미소다 청포도.jpg
+DHDD0300,데일리C 레몬워터,D,음료,HD,혼합음료,D0300,데일리C,LC,롯데칠성음료(주),./images/drink/chilsung/데일리C 레몬워터.jpg
+DATD0400,데자와 로얄 밀크티,D,음료,AT,액상차,D0400,데자와,DO,동아오츠카(주),./images/drink/donga/데자와 로얄 밀크티.jpg
+DGYD0500,덴마크 딸기딸기우유,D,음료,GY,가공유,D0500,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 딸기딸기우유.jpg
+DGYD0501,덴마크 로얄밀크티,D,음료,GY,가공유,D0501,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 로얄밀크티.jpg
+DGYD0502,덴마크 모닝시리얼우유,D,음료,GY,가공유,D0502,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 모닝시리얼우유.jpg
+DACD0503,덴마크 민트라떼,D,음료,AC,액상커피,D0503,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 민트라떼.jpg
+DGYD0504,덴마크 민트초코우유,D,음료,GY,가공유,D0504,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 민트초코우유.jpg
+DGYD0505,덴마크 바나바나우유,D,음료,GY,가공유,D0505,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 바나바나우유.jpg
+DGYD0506,덴마크 초코초코우유,D,음료,GY,가공유,D0506,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 초코초코우유.jpg
+DACD0507,덴마크 커피커피,D,음료,AC,액상커피,D0507,덴마크,DW,(주)동원F&B,./images/drink/dongwon/덴마크 커피커피.jpg
+DFDD0600,델몬트 매실,D,음료,FD,과/채음료,D0600,델몬트,LC,롯데칠성음료(주),./images/drink/chilsung/델몬트 매실.jpg
+DFDD0601,델몬트 알로에,D,음료,FD,과/채음료,D0601,델몬트,LC,롯데칠성음료(주),./images/drink/chilsung/델몬트 알로에.jpg
+DFDD0602,델몬트 오렌지,D,음료,FD,과/채음료,D0602,델몬트,LC,롯데칠성음료(주),./images/drink/chilsung/델몬트 오렌지.jpg
+DFDD0603,델몬트 토마토,D,음료,FD,과/채음료,D0603,델몬트,LC,롯데칠성음료(주),./images/drink/chilsung/델몬트 토마토.jpg
+DFDD0604,델몬트 포도,D,음료,FD,과/채음료,D0604,델몬트,LC,롯데칠성음료(주),./images/drink/chilsung/델몬트 포도.jpg
+RBJB0201,도전! 불닭비빔면,R,라면,BJ,봉지라면,B0201,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/도전! 불닭비빔면.jpg
+DATD0700,두번째 우려낸 녹차만 담았다,D,음료,AT,액상차,D0700,두번째 우려낸 녹차만 담았다,DO,동아오츠카(주),./images/drink/donga/두번째 우려낸 녹차만 담았다.jpg
+SGJE0300,딸기웨하스,S,과자,GJ,과자,E0300,웨하스,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/딸기웨하스.jpg
+SCKD0800,딸기잼쿠키,S,과자,CK,쿠키,D0800,딸기잼쿠키,LT,롯데제과㈜ 부산공장,./images/snack/nongshim/딸기잼쿠키.jpg
+SGJD0900,땅콩샌드,S,과자,GJ,과자,D0900,땅콩샌드,CR,크라운제과,./images/snack/crown/땅콩샌드.jpg
+RBJB0202,라이트 불닭볶음면,R,라면,BJ,봉지라면,B0202,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/라이트 불닭볶음면.jpg
+DACL0100,레쓰비 그란데 라떼,D,음료,AC,액상커피,L0100,레쓰비,LC,롯데칠성음료(주),./images/drink/chilsung/레쓰비 그란데 라떼.jpg
+DACL0101,레쓰비 그란데 헤이즐넛,D,음료,AC,액상커피,L0101,레쓰비,LC,롯데칠성음료(주),./images/drink/chilsung/레쓰비 그란데 헤이즐넛.jpg
+DACL0102,레쓰비 마일드,D,음료,AC,액상커피,L0102,레쓰비,LC,롯데칠성음료(주),./images/drink/chilsung/레쓰비 마일드.jpg
+DACL0103,레쓰비 모카라떼,D,음료,AC,액상커피,L0103,레쓰비,LC,롯데칠성음료(주),./images/drink/chilsung/레쓰비 모카라떼.jpg
+SSNL0200,롯샌 화이트크림깜뜨,S,과자,SN,스낵과자,L0200,롯샌,LT,롯데제과㈜,./images/snack/nongshim/롯샌 화이트크림깜뜨.jpg
+SGJL0201,롯샌파인애플,S,과자,GJ,과자,L0201,롯샌,LT,롯데제과㈜,./images/snack/nongshim/롯샌파인애플.jpg
+DATL0300,립톤 밀크티,D,음료,AT,액상차,L0300,립톤,LC,롯데칠성음료(주),./images/drink/chilsung/립톤 밀크티.jpg
+DATL0301,립톤 아이스티 복숭아,D,음료,AT,액상차,L0301,립톤,LC,롯데칠성음료(주),./images/drink/chilsung/립톤 아이스티 복숭아.jpg
+DTSM0200,마운틴듀,D,음료,TS,탄산음료,M0200,마운틴듀,LC,롯데칠성음료(주),./images/drink/chilsung/마운틴듀.jpg
+SGJM0300,맛동산,S,과자,GJ,과자,M0300,맛동산,HT,해태제과,./images/snack/nongshim/맛동산.jpg
+RBJM0400,맛있는라면,R,라면,BJ,봉지라면,M0400,맛있는라면,SY,삼양식품(주),./images/ramyeon/samyang/맛있는라면.jpg
+RBJM0500,맛짬뽕,R,라면,BJ,봉지라면,M0500,맛짬뽕,NS,농심,./images/ramyeon/nongshim/맛짬뽕.PNG
+SSNS0100,매운새우깡,S,과자,SN,스낵과자,S0100,새우깡,NS,농심,./images/snack/nongshim/매운새우깡.jpg
+DACM0600,맥스웰하우스 싱글카페 카푸치노,D,음료,AC,액상커피,M0600,맥스웰하우스,DS,동서식품(주),./images/drink/dongsuh/맥스웰하우스 싱글카페 카푸치노.png
+DACM0700,맥심 에스프레소 T.O.P 더 블랙,D,음료,AC,액상커피,M0700,맥심,DS,동서식품(주),./images/drink/dongsuh/맥심 에스프레소 T.O.P 더 블랙.png
+DACM0701,맥심 에스프레소 T.O.P 마스터 라떼,D,음료,AC,액상커피,M0701,맥심,DS,동서식품(주),./images/drink/dongsuh/맥심 에스프레소 T.O.P 마스터 라떼.png
+DACM0702,맥심 에스프레소 T.O.P 스위트 아메리카노,D,음료,AC,액상커피,M0702,맥심,DS,동서식품(주),./images/drink/dongsuh/맥심 에스프레소 T.O.P 스위트 아메리카노.png
+SSNS0200,못말리는 신짱,S,과자,SN,스낵과자,S0200,못말리는 신짱,CR,㈜크라운제과 아산공장,./images/snack/crown/못말리는신짱.jpg
+RBJM0800,무파마탕면,R,라면,BJ,봉지라면,M0800,무파마탕면,NS,농심,./images/ramyeon/nongshim/무파마탕면.PNG
+RCPM0801,무파마탕면큰사발,R,라면,CP,컵라면,M0801,무파마탕면,NS,농심,./images/ramyeon/nongshim/무파마탕면큰사발.PNG
+SGJM0900,미쯔블랙,S,과자,GJ,과자,M0900,미쯔,OR,㈜오리온 제4청주공장,./images/snack/nongshim/미쯔블랙.jpg
+RBJB0203,미트스파게티 불닭볶음면,R,라면,BJ,봉지라면,B0203,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/미트스파게티 불닭볶음면.jpg
+DTSM1000,밀키스,D,음료,TS,탄산음료,M1000,밀키스,LC,롯데칠성음료(주),./images/drink/chilsung/밀키스.jpg
+SGJB0400,바나나킥,S,과자,GJ,과자,B0400,바나나킥,NS,농심,./images/snack/nongshim/바나나킥.jpg
+SGJB0600,배배,S,과자,GJ,과자,B0600,배배,OR,㈜오리온 제4청주공장,./images/snack/nongshim/배배.jpg
+RBJB0800,배홍동비빔면,R,라면,BJ,봉지라면,B0800,배홍동비빔면,NS,농심,./images/ramyeon/nongshim/배홍동비빔면.PNG
+SCKB1000,버터와플,S,과자,CK,쿠키,B1000,버터와플,CR,크라운제과,./images/snack/crown/버터와플.jpg
+SGJB1200,벌집핏자,S,과자,GJ,과자,B1200,벌집핏자,NS,농심,./images/snack/nongshim/벌집핏자.jpg
+SSNB1400,별뽀빠이,S,과자,SN,스낵과자,B1400,별뽀빠이,SY,삼양식품㈜ 원주공장,./images/snack/nongshim/별뽀빠이.jpg
+RBJB1600,보글보글부대찌개면,R,라면,BJ,봉지라면,B1600,보글보글부대찌개면,NS,농심,./images/ramyeon/nongshim/보글보글부대찌개면.PNG
+RCPB1601,보글보글부대찌개큰사발면,R,라면,CP,컵라면,B1601,보글보글부대찌개면,NS,농심,./images/ramyeon/nongshim/보글보글부대찌개큰사발면.PNG
+RBJN0300,볶음너구리,R,라면,BJ,봉지라면,N0300,너구리,NS,농심,./images/ramyeon/nongshim/볶음너구리.PNG
+RCPN0301,볶음너구리큰사발면,R,라면,CP,컵라면,N0301,너구리,NS,농심,./images/ramyeon/nongshim/볶음너구리큰사발면.PNG
+RCPJ0100,볶음진짬뽕,R,라면,CP,컵라면,J0100,진짬뽕,OT,오뚜기라면(주),./images/ramyeon/ottogi/볶음진짬뽕.jpg
+RBJB1700,부대찌개라면,R,라면,BJ,봉지라면,B1700,부대찌개라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/부대찌개라면.jpg
+RBJB0204,불닭볶음면,R,라면,BJ,봉지라면,B0204,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/불닭볶음면.jpg
+DHDB0101,비타500,D,음료,HD,혼합음료,B0101,비타500,GD,광동제약,./images/drink/kwangdong/비타500.jpg
+DHDB0102,비타500 A.C.E,D,음료,HD,혼합음료,B0102,비타500,GD,광동제약,./images/drink/kwangdong/비타500 A.C.E.jpg
+DHDB0103,비타500칼슘,D,음료,HD,혼합음료,B0103,비타500,GD,광동제약,./images/drink/kwangdong/비타500칼슘.jpg
+DHDB0300,비타파워,D,음료,HD,혼합음료,B0300,비타파워,LC,롯데칠성음료(주),./images/drink/chilsung/비타파워.jpg
+RCPB0500,빅3 볶음김치면,R,라면,CP,컵라면,B0500,빅3 볶음김치면,PD,팔도,./images/ramyeon/paldo/빅3 볶음김치면.jpg
+SBSB0700,빠다코코낫,S,과자,BS,비스킷,B0700,빠다코코낫,LT,롯데제과㈜,./images/snack/nongshim/빠다코코낫.jpg
+SGJB0900,빠삭한닭칩 후라이드치킨맛,S,과자,GJ,과자,B0900,빠삭한닭칩,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/빠삭한닭칩.jpg
+SSNB1100,빠새(빠삭한새우칩),S,과자,SN,스낵과자,B1100,빠새,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/빠새.jpg
+SGJB1300,뻥소리,S,과자,GJ,과자,B1300,뻥소리,LT,롯데제과㈜,./images/snack/nongshim/뻥소리.jpg
+SGJB1500,뽀또치즈타르트,S,과자,GJ,과자,B1500,뽀또,CR,크라운제과,./images/snack/crown/뽀또치즈타르트.jpg
+SSNS0300,사또밥,S,과자,SN,스낵과자,S0300,사또밥,SY,삼양식품㈜ 원주공장,./images/snack/nongshim/사또밥.jpg
+SSNS0301,사또밥 갈릭버터맛,S,과자,SN,스낵과자,S0301,사또밥,SY,삼양식품㈜ 원주공장,./images/snack/nongshim/사또밥 갈릭버터.jpg
+RBJS0400,사리곰탕면,R,라면,BJ,봉지라면,S0400,사리곰탕면,NS,농심,./images/ramyeon/nongshim/사리곰탕면.PNG
+RCPS0401,사리곰탕큰사발면,R,라면,CP,컵라면,S0401,사리곰탕면,NS,농심,./images/ramyeon/nongshim/사리곰탕큰사발면.PNG
+SGJS0500,사브레,S,과자,GJ,과자,S0500,사브레,HT,해태제과식품㈜ 광주공장,./images/snack/nongshim/사브레.jpg
+RBJJ0204,사천짜파게티,R,라면,BJ,봉지라면,J0204,짜파게티,NS,농심,./images/ramyeon/nongshim/사천짜파게티.PNG
+RCPJ0201,사천짜파게티큰사발면,R,라면,CP,컵라면,J0201,짜파게티,NS,농심,./images/ramyeon/nongshim/사천짜파게티큰사발면.PNG
+RBJS0600,삼양라면 매운맛,R,라면,BJ,봉지라면,S0600,삼양라면,SY,삼양식품(주),./images/ramyeon/samyang/삼양라면 매운맛.jpg
+RBJS0601,삼양라면 오리지널,R,라면,BJ,봉지라면,S0601,삼양라면,SY,삼양식품(주),./images/ramyeon/samyang/삼양라면 오리지널.jpg
+RBJS0700,삼양비빔면,R,라면,BJ,봉지라면,S0700,삼양비빔면,SY,삼양식품(주),./images/ramyeon/samyang/삼양비빔면.jpg
+SSNS0101,새우깡,S,과자,SN,스낵과자,S0101,새우깡,NS,농심,./images/snack/nongshim/새우깡.jpg
+RCPS0800,새우탕큰사발면,R,라면,CP,컵라면,S0800,새우탕큰사발면,NS,농심,./images/ramyeon/nongshim/새우탕큰사발면.PNG
+DHDS0900,솔의눈,D,음료,HD,혼합음료,S0900,솔의눈,LC,롯데칠성음료(주),./images/drink/chilsung/솔의눈.jpg
+RBJS1000,쇠고기미역국라면,R,라면,BJ,봉지라면,S1000,쇠고기미역국라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/쇠고기미역국라면.png
+RBJN0302,순한 너구리,R,라면,BJ,봉지라면,N0302,너구리,NS,농심,./images/ramyeon/nongshim/순한너구리.PNG
+RBJS1100,스낵면,R,라면,BJ,봉지라면,S1100,스낵면,OT,오뚜기라면(주),./images/ramyeon/ottogi/스낵면.jpg
+RCPS1101,스낵면 Cup,R,라면,CP,컵라면,S1101,스낵면,OT,오뚜기라면(주),./images/ramyeon/ottogi/스낵면 Cup.jpg
+SGJS1200,스윙칩 볶음고추장맛,S,과자,GJ,과자,S1200,스윙칩,OR,㈜오리온 제4청주공장,./images/snack/nongshim/스윙칩 볶음고추장맛.jpg
+DHDS1300,스타벅스 시그니처 초콜릿 드링크,D,음료,HD,혼합음료,S1300,스타벅스,DS,동서식품(주),./images/drink/dongsuh/스타벅스 시그니처 초콜릿 드링크.png
+DACS1301,스타벅스 파이크 플레이스 로스트 블랙 커피,D,음료,AC,액상커피,S1301,스타벅스,DS,동서식품(주),./images/drink/dongsuh/스타벅스 파이크 플레이스 로스트 블랙 커피.png
+DACS1302,스타벅스 프라푸치노 모카,D,음료,AC,액상커피,S1302,스타벅스,DS,동서식품(주),./images/drink/dongsuh/스타벅스 프라푸치노 모카.png
+DACS1303,스타벅스 프라푸치노 카라멜향,D,음료,AC,액상커피,S1303,스타벅스,DS,동서식품(주),./images/drink/dongsuh/스타벅스 프라푸치노 카라멜향.png
+DACS1304,스타벅스 프라푸치노 커피,D,음료,AC,액상커피,S1304,스타벅스,DS,동서식품(주),./images/drink/dongsuh/스타벅스 프라푸치노 커피.png
+SGJS1400,신당동 장독대를 뛰쳐나온 떡볶이 총각의 맛있는 프로포즈,S,과자,GJ,과자,S1400,신당동 장독대를 뛰쳐나온 떡볶이 총각의 맛있는 프로포즈,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/신당동 장독대를 뛰쳐나온 떡볶이 총각의 맛있는 프로포즈.jpg
+RBJS1500,신라면,R,라면,BJ,봉지라면,S1500,신라면,NS,농심,./images/ramyeon/nongshim/신라면.PNG
+RBJS1501,신라면건면,R,라면,BJ,봉지라면,S1501,신라면,NS,농심,./images/ramyeon/nongshim/신라면건면.PNG
+RBJS1502,신라면볶음면,R,라면,BJ,봉지라면,S1502,신라면,NS,농심,./images/ramyeon/nongshim/신라면볶음면.PNG
+RCPS1503,신라면볶음면큰사발,R,라면,CP,컵라면,S1503,신라면,NS,농심,./images/ramyeon/nongshim/신라면볶음면큰사발.PNG
+RBJS1504,신라면블랙,R,라면,BJ,봉지라면,S1504,신라면,NS,농심,./images/ramyeon/nongshim/신라면블랙.PNG
+RCPS1505,신라면블랙사발,R,라면,CP,컵라면,S1505,신라면,NS,농심,./images/ramyeon/nongshim/신라면블랙사발.PNG
+RCPS1506,신라면컵,R,라면,CP,컵라면,S1506,신라면,NS,농심,./images/ramyeon/nongshim/신라면컵.PNG
+RCPS1507,신라면큰사발,R,라면,CP,컵라면,S1507,신라면,NS,농심,./images/ramyeon/nongshim/신라면큰사발.PNG
+DATS1600,실론티,D,음료,AT,액상차,S1600,실론티,LC,롯데칠성음료(주),./images/drink/chilsung/실론티.jpg
+SGJS0102,쌀새우깡,S,과자,GJ,과자,S0102,새우깡,NS,농심,./images/snack/nongshim/쌀새우깡.jpg
+DATE0400,아침헛개,D,음료,AT,액상차,E0400,아침헛개,LC,롯데칠성음료(주),./images/drink/chilsung/아침헛개.jpg
+RBJE0500,안성탕면,R,라면,BJ,봉지라면,E0500,안성탕면,NS,농심,./images/ramyeon/nongshim/안성탕면.PNG
+SGJE0600,알새우칩,S,과자,GJ,과자,E0600,알새우칩,NS,농심,./images/snack/nongshim/알새우칩.jpg
+RBJN0303,앵그리너구리,R,라면,BJ,봉지라면,N0303,너구리,NS,농심,./images/ramyeon/nongshim/앵그리너구리.PNG
+RCPE0700,앵그리짜파구리큰사발면,R,라면,CP,컵라면,E0700,앵그리짜파구리큰사발면,NS,농심,./images/ramyeon/nongshim/앵그리짜파구리큰사발면.jpg
+SCAE0800,야채크래커,S,과자,CA,크래커,E0800,야채크래커,LT,롯데제과㈜,./images/snack/nongshim/야채크래커.jpg
+RBJN0304,얼큰한 너구리,R,라면,BJ,봉지라면,N0304,너구리,NS,농심,./images/ramyeon/nongshim/얼큰한 너구리.PNG
+SBSE0900,에이스,S,과자,BS,비스킷,E0900,에이스,HT,해태제과식품㈜,./images/snack/nongshim/에이스.jpg
+RBJE1000,열라면,R,라면,BJ,봉지라면,E1000,열라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/열라면.jpg
+SGJE1100,예감,S,과자,GJ,과자,E1100,예감,OR,㈜오리온 제2익산공장,./images/snack/nongshim/예감.jpg
+SGJE1101,예감 볶은양파맛,S,과자,GJ,과자,E1101,예감,OR,㈜오리온 제2익산공장,./images/snack/nongshim/예감 볶음양파맛.jpg
+SGJE1102,예감치즈그라탕맛,S,과자,GJ,과자,E1102,예감,OR,㈜오리온 제2익산공장,./images/snack/nongshim/예감 치즈그라탕맛.jpg
+SGJE1200,오!감자 감자그라탕맛,S,과자,GJ,과자,E1200,오!감자,OR,㈜오리온 제4청주공장,./images/snack/nongshim/오감자 감자그라탕맛.jpg
+SGJE1201,오!감자 찍먹 양념바베큐소스맛,S,과자,GJ,과자,E1201,오!감자,OR,㈜오리온 제4청주공장,./images/snack/nongshim/오감자 찍먹 양념바베큐소스맛.jpg
+RBJE1300,오뚜기 오동통면,R,라면,BJ,봉지라면,E1300,오뚜기 오동통면,OT,오뚜기라면(주),./images/ramyeon/ottogi/오뚜기 오동통면.jpg
+SBSE1400,오뜨 치즈,S,과자,BS,비스킷,E1400,오뜨,OR,㈜오리온 제2익산공장,./images/snack/nongshim/오뜨치즈.jpg
+DHDE1500,오라떼 애플,D,음료,HD,혼합음료,E1500,오라떼,DO,동아오츠카(주),./images/drink/donga/오라떼 애플.jpg
+DHDE1501,오라떼 오리지널,D,음료,HD,혼합음료,E1501,오라떼,DO,동아오츠카(주),./images/drink/donga/오라떼 오리지널.jpg
+DHDE1502,오라떼 피치,D,음료,HD,혼합음료,E1502,오라떼,DO,동아오츠카(주),./images/drink/donga/오라떼 피치.jpg
+DTSE1600,오란씨 오렌지,D,음료,TS,탄산음료,E1600,오란씨,DO,동아오츠카(주),./images/drink/donga/오란씨 오렌지.jpg
+DTSE1601,오란씨 파인애플,D,음료,TS,탄산음료,E1601,오란씨,DO,동아오츠카(주),./images/drink/donga/오란씨 파인애플.jpg
+DTSE1700,오랑지나,D,음료,TS,탄산음료,E1700,오랑지나,LC,롯데칠성음료(주),./images/drink/chilsung/오랑지나.jpg
+DTSE1800,오로나민C,D,음료,TS,탄산음료,E1800,오로나민C,DO,동아오츠카(주),./images/drink/donga/오로나민C.jpeg
+RCPE1900,오모리 김치찌개라면,R,라면,CP,컵라면,E1900,오모리,PD,팔도,./images/ramyeon/paldo/오모리 김치찌개라면.jpg
+RCPE1901,오모리부대찌개라면,R,라면,CP,컵라면,E1901,오모리,OT,오뚜기라면(주),./images/ramyeon/ottogi/오모리부대찌개라면.jpg
+RCPE1902,오모리참치찌개라면,R,라면,CP,컵라면,E1902,오모리,OT,오뚜기라면(주),./images/ramyeon/ottogi/오모리참치찌개라면.jpg
+SGJE2000,오사쯔,S,과자,GJ,과자,E2000,오사쯔,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/오사쯔.jpg
+SGJE2100,오징어땅콩,S,과자,GJ,과자,E2100,오징어땅콩,OR,㈜오리온 제2익산공장,./images/snack/nongshim/오징어땅콩.jpg
+SGJE2200,오징어집 버터구이맛,S,과자,GJ,과자,E2200,오징어집,NS,농심,./images/snack/nongshim/오징어집버터구이맛.jpg
+RBJE2300,오징어짬뽕,R,라면,BJ,봉지라면,E2300,오징어짬뽕,NS,농심,./images/ramyeon/nongshim/오징어짬뽕.PNG
+RCPE2301,오징어짬뽕컵,R,라면,CP,컵라면,E2301,오징어짬뽕,NS,농심,./images/ramyeon/nongshim/오징어짬뽕컵.jpg
+SGJE2400,옥수수깡,S,과자,GJ,과자,E2400,옥수수깡,NS,농심,./images/snack/nongshim/옥수수깡.jpg
+DATE2500,옥수수수염차,D,음료,AT,액상차,E2500,옥수수수염차,LC,롯데칠성음료(주),./images/drink/chilsung/옥수수수염차.jpg
+RBJJ0200,올리브짜파게티,R,라면,BJ,봉지라면,J0200,짜파게티,NS,농심,./images/ramyeon/nongshim/올리브짜파게티.PNG
+SGJE2600,와클,S,과자,GJ,과자,E2600,와클,OR,㈜오리온 제6청주공장,./images/snack/nongshim/와클.jpg
+SGJG0701,왕고래밥볶음양념맛,S,과자,GJ,과자,G0701,고래밥,OR,㈜오리온 제2익산공장,./images/snack/nongshim/왕고래밥 볶음양념맛.jpg
+SSNJ1701,왕짱구,S,과자,SN,스낵과자,J1701,짱구,SY,삼양식품㈜ 원주공장,./images/snack/nongshim/왕짱구.jpg
+RCPE2700,육개장사발면,R,라면,CP,컵라면,E2700,육개장사발면,NS,농심,./images/ramyeon/nongshim/육개장사발면.PNG
+DHDE0100,이프로 부족할때 복숭아,D,음료,HD,혼합음료,E0100,이프로,LC,롯데칠성음료(주),./images/drink/chilsung/이프로 부족할때 복숭아.jpg
+SGJE2800,인디안밥,S,과자,GJ,과자,E2800,인디안밥,NS,농심,./images/snack/nongshim/인디안밥.jpg
+RBJE2900,일품짜장면,R,라면,BJ,봉지라면,E2900,일품짜장면,PD,팔도,./images/ramyeon/paldo/일품(一品)짜장면.jpeg
+SGJJ0300,자가비 짭짤한 맛,S,과자,GJ,과자,J0300,자가비,HT,해태가루비,./images/snack/nongshim/자가비짭짤한맛.jpg
+SSNJ0400,자갈치문어맛,S,과자,SN,스낵과자,J0400,자갈치,NS,농심,./images/snack/nongshim/자갈치문어맛.jpg
+DFDJ0500,제주사랑 감귤사랑,D,음료,FD,과/채음료,J0500,제주사랑 감귤사랑,LC,롯데칠성음료(주),./images/drink/chilsung/제주사랑 감귤사랑.jpg
+SGJJ0600,제크,S,과자,GJ,과자,J0600,제크,LT,롯데제과㈜,./images/snack/nongshim/제크.jpg
+SGJJ0601,제크샌드 콘버터맛,S,과자,GJ,과자,J0601,제크,LT,롯데제과㈜,./images/snack/nongshim/제크 콘버터맛.jpg
+DHDJ0700,제티 쵸코렛맛 드링크 CAN,D,음료,HD,혼합음료,J0700,제티,DS,동서식품(주),./images/drink/dongsuh/제티 초코렛맛 드링크 CAN.png
+SGJJ0800,조청유과,S,과자,GJ,과자,J0800,조청유과,NS,농심,./images/snack/nongshim/조청유과.jpg
+SSNJ0900,죠리퐁,S,과자,SN,스낵과자,J0900,죠리퐁,CR,㈜크라운제과 아산공장,./images/snack/crown/죠리퐁.jpg
+RBJJ1000,진라면(매운맛),R,라면,BJ,봉지라면,J1000,진라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/진라면(매운맛).png
+RBJJ1001,진라면(순한맛),R,라면,BJ,봉지라면,J1001,진라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/진라면(순한맛).png
+RCPJ1002,진라면Cup매운맛,R,라면,CP,컵라면,J1002,진라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/진라면Cup매운맛.jpg
+RCPJ1003,진라면Cup순한맛,R,라면,CP,컵라면,J1003,진라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/진라면Cup순한맛.jpg
+RBJJ1100,진비빔면,R,라면,BJ,봉지라면,J1100,진비빔면,OT,오뚜기라면(주),./images/ramyeon/ottogi/진비빔면.jpg
+RBJJ1200,진진짜라,R,라면,BJ,봉지라면,J1200,진진짜라,OT,오뚜기라면(주),./images/ramyeon/ottogi/진진짜라.jpg
+RBJJ1300,진짜장,R,라면,BJ,봉지라면,J1300,진짜장,OT,오뚜기라면(주),./images/ramyeon/ottogi/진짜장.jpg
+RBJJ1400,진짜쫄면,R,라면,BJ,봉지라면,J1400,진짜쫄면,OT,오뚜기라면(주),./images/ramyeon/ottogi/진짜쫄면.jpg
+RBJJ0101,진짬뽕,R,라면,BJ,봉지라면,J0101,진짬뽕,OT,오뚜기라면(주),./images/ramyeon/ottogi/진짬뽕.jpg
+RCPJ0102,진짬뽕 Cup,R,라면,CP,컵라면,J0102,진짬뽕,OT,오뚜기라면(주),./images/ramyeon/ottogi/진짬뽕 Cup.jpeg
+RBJJ1500,짜왕,R,라면,BJ,봉지라면,J1500,짜왕,NS,농심,./images/ramyeon/nongshim/짜왕.jpg
+RBJJ1501,짜왕매운맛,R,라면,BJ,봉지라면,J1501,짜왕,NS,농심,./images/ramyeon/nongshim/짜왕매운맛.jpg
+RCPJ1502,짜왕매운맛큰사발면,R,라면,CP,컵라면,J1502,짜왕,NS,농심,./images/ramyeon/nongshim/짜왕매운맛큰사발면.jpg
+RCPJ1503,짜왕큰사발면,R,라면,CP,컵라면,J1503,짜왕,NS,농심,./images/ramyeon/nongshim/짜왕큰사발면.jpg
+RBJJ1600,짜짜로니,R,라면,BJ,봉지라면,J1600,짜짜로니,SY,삼양식품(주),./images/ramyeon/samyang/짜짜로니.jpg
+RCPJ0202,짜파게티범벅,R,라면,CP,컵라면,J0202,짜파게티,NS,농심,./images/ramyeon/nongshim/짜파게티범벅.jpg
+RCPJ0203,짜파게티큰사발면,R,라면,CP,컵라면,J0203,짜파게티,NS,농심,./images/ramyeon/nongshim/짜파게티큰사발면.jpg
+SSNJ1700,짱구,S,과자,SN,스낵과자,J1700,짱구,SY,삼양식품㈜ 원주공장,./images/snack/nongshim/짱구.jpg
+SSNJ1800,쫄병 매콤한맛,S,과자,SN,스낵과자,J1800,쫄병,NS,농심,./images/snack/nongshim/쫄병스낵매콤한맛.jpg
+RCPC0100,참깨라면 Cup,R,라면,CP,컵라면,C0100,참깨라면,OT,오뚜기라면(주),./images/ramyeon/ottogi/참깨라면 Cup.jpg
+SCAC0200,참크래커,S,과자,CA,크래커,C0200,참크래커,CR,크라운제과,./images/snack/crown/참크래커.jpg
+DATC0300,초가을우엉차,D,음료,AT,액상차,C0300,초가을우엉차,LC,롯데칠성음료(주),./images/drink/chilsung/초가을우엉차.jpg
+SGJC0400,초코송이,S,과자,GJ,과자,C0400,초코송이,OR,㈜오리온 제5청주공장,./images/snack/nongshim/초코송이.jpg
+SGJC0500,초코칩쿠키,S,과자,GJ,쿠키,C0500,초코칩쿠키,OR,㈜오리온 제2익산공장,./images/snack/nongshim/초코칩쿠키.jpg
+SGJC0600,촉촉한초코칩,S,과자,GJ,쿠키,C0600,촉촉한초코칩,OR,㈜오리온 제2익산공장,./images/snack/nongshim/촉촉한초코칩.jpg
+SGJC0700,쵸코하임,S,과자,GJ,과자,C0700,쵸코하임,CR,크라운제과,./images/snack/crown/쵸코하임.jpg
+RBJB0205,치즈불닭볶음면,R,라면,BJ,봉지라면,B0205,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/치즈불닭볶음면.jpg
+SGJC0800,치즈샌드,S,과자,GJ,과자,C0800,치즈샌드,CR,크라운제과,./images/snack/crown/치즈샌드.jpg
+SGJC0900,치킨팝,S,과자,GJ,과자,C0900,치킨팝,OR,오리온,./images/snack/nongshim/치킨팝.jpg
+SGJC1000,치토스 스모키바베큐맛,S,과자,GJ,과자,C1000,치토스,LT,롯데제과㈜,./images/snack/nongshim/치토스 스모키바베큐맛.jpg
+SGJC1101,치토스매콤달콤한맛,S,과자,GJ,과자,C1101,치토스,LT,롯데제과㈜,./images/snack/nongshim/치토스 매콤달콤한맛.jpg
+SGJC1200,칙촉,S,과자,GJ,과자,C1200,칙촉,LT,롯데제과㈜,./images/snack/nongshim/칙촉.jpg
+SGJC1201,칙촉 더블초코,S,과자,GJ,과자,C1201,칙촉,LT,롯데제과㈜,./images/snack/nongshim/칙촉 더블초코.jpg
+SGJC1202,칙촉 티라미수,S,과자,GJ,과자,C1202,칙촉,LT,롯데제과㈜,./images/snack/nongshim/칙촉 티라미수.jpg
+DTSC1300,칠성사이다,D,음료,TS,탄산음료,C1300,칠성사이다,LC,롯데칠성음료(주),./images/drink/chilsung/칠성사이다.jpg
+DTSC1301,칠성사이다 복숭아,D,음료,TS,탄산음료,C1301,칠성사이다,LC,롯데칠성음료(주),./images/drink/chilsung/칠성사이다 복숭아.jpg
+DTSC1302,칠성사이다 제로,D,음료,TS,탄산음료,C1302,칠성사이다,LC,롯데칠성음료(주),./images/drink/chilsung/칠성사이다 제로.jpg
+SGJK0100,카라멜콘 땅콩,S,과자,GJ,과자,K0100,카라멜콘 땅콩,CR,㈜크라운제과 아산공장,./images/snack/crown/카라멜콘 땅콩.jpg
+SGJK0200,카스타드,S,과자,GJ,과자,K0200,카스타드,LT,롯데제과㈜,./images/snack/nongshim/카스타드.jpg
+SGJK0201,카스타드,S,과자,GJ,과자,K0201,카스타드,OR,㈜오리온 제4청주공장,./images/snack/nongshim/카스타드.jpg
+SGJK0300,카카오비스킷 오리온샌드 까메오 White cream,S,과자,GJ,과자,K0300,카카오비스킷 오리온샌드,OR,㈜오리온 제2익산공장,./images/snack/nongshim/오리온샌드 까메오.jpg
+SGJK0400,칸츄리콘(콘버터맛),S,과자,GJ,과자,K0400,칸츄리콘,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/칸츄리콘.jpg
+DACK0500,칸타타 땅콩크림라떼,D,음료,AC,액상커피,K0500,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 땅콩크림라떼.jpg
+DACK0501,칸타타 라떼홀릭 카페라떼,D,음료,AC,액상커피,K0501,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 라떼홀릭 카페라떼.jpg
+DACK0502,칸타타 스위트 아메리카노,D,음료,AC,액상커피,K0502,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 스위트 아메리카노.jpg
+DACK0503,칸타타 카라멜마키아토,D,음료,AC,액상커피,K0503,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 카라멜마키아토.jpg
+DACK0504,칸타타 콘트라베이스 콜드브루 라떼,D,음료,AC,액상커피,K0504,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 콘트라베이스 콜드브루 라떼.jpg
+DACK0505,칸타타 콘트라베이스 콜드브루 블랙,D,음료,AC,액상커피,K0505,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 콘트라베이스 콜드브루 블랙.jpg
+DACK0506,칸타타 콘트라베이스 콜드브루 스위트블랙,D,음료,AC,액상커피,K0506,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 콘트라베이스 콜드브루 스위트블랙.jpg
+DACK0507,칸타타 콜드브루 흑당라떼,D,음료,AC,액상커피,K0507,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 콜드브루 흑당라떼.jpg
+DACK0508,칸타타 프리미엄 라떼,D,음료,AC,액상커피,K0508,칸타타,LC,롯데칠성음료(주),./images/drink/chilsung/칸타타 프리미엄 라떼.jpg
+DACK0600,커핑로드 모카라떼,D,음료,AC,액상커피,K0600,커핑로드,DW,(주)동원F&B,./images/drink/dongwon/커핑로드 모카라떼.jpg
+DACK0601,커핑로드 에스프레소라떼,D,음료,AC,액상커피,K0601,커핑로드,DW,(주)동원F&B,./images/drink/dongwon/커핑로드 에스프레소라떼.jpg
+DACK0602,커핑로드 카페봉봉,D,음료,AC,액상커피,K0602,커핑로드,DW,(주)동원F&B,./images/drink/dongwon/커핑로드 카페봉봉.jpg
+DTSK0700,컨피던스,D,음료,TS,탄산음료,K0700,컨피던스,DO,동아오츠카(주),./images/drink/donga/컨피던스.jpg
+RCPB0206,컵 까르보불닭볶음면,R,라면,CP,컵라면,B0206,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/컵 까르보불닭볶음면.jpg
+RCPB0207,컵 불닭볶음면,R,라면,CP,컵라면,B0207,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/컵 불닭볶음면.jpg
+RCPS0602,컵 삼양라면 오리지널,R,라면,CP,컵라면,S0602,삼양라면,SY,삼양식품(주),./images/ramyeon/samyang/컵 삼양라면 오리지널.jpg
+RCPK0800,컵누들 매콤한맛,R,라면,CP,컵라면,K0800,컵누들,OT,오뚜기라면(주),./images/ramyeon/ottogi/컵누들 매콤한맛.png
+RCPK0801,컵누들 우동맛,R,라면,CP,컵라면,K0801,컵누들,OT,오뚜기라면(주),./images/ramyeon/ottogi/컵누들 우동맛.png
+DHDK0900,코코리치 포도,D,음료,HD,혼합음료,K0900,코코리치,LC,롯데칠성음료(주),./images/drink/chilsung/코코리치 포도.jpg
+RCPK1000,콕콕콕 라면볶이,R,라면,CP,컵라면,K1000,콕콕콕,OT,오뚜기라면(주),./images/ramyeon/ottogi/콕콕콕 라면볶이.jpg
+RCPK1001,콕콕콕 스파게티,R,라면,CP,컵라면,K1001,콕콕콕,OT,오뚜기라면(주),./images/ramyeon/ottogi/콕콕콕 스파게티.jpg
+RCPK1002,콕콕콕 짜라볶이,R,라면,CP,컵라면,K1002,콕콕콕,OT,오뚜기라면(주),./images/ramyeon/ottogi/콕콕콕 짜라볶이.jpg
+RCPK1003,콕콕콕 짜장볶이,R,라면,CP,컵라면,K1003,콕콕콕,OT,오뚜기라면(주),./images/ramyeon/ottogi/콕콕콕 짜장볶이.jpg
+RCPK1004,콕콕콕 치즈볶이,R,라면,CP,컵라면,K1004,콕콕콕,OT,오뚜기라면(주),./images/ramyeon/ottogi/콕콕콕 치즈볶이.jpg
+SGJK1100,콘치 크림치즈,S,과자,GJ,과자,K1100,콘치,CR,㈜크라운제과 아산공장,./images/snack/crown/콘치 크림치즈.jpg
+SGJK1200,쿠쉬쿠쉬 갈릭바게트맛,S,과자,GJ,과자,K1200,쿠쉬쿠쉬,OR,㈜오리온 제4청주공장,./images/snack/nongshim/쿠쉬쿠쉬 갈릭바게트맛.jpg
+SGJK1300,쿠크다스 화이트,S,과자,GJ,과자,K1300,쿠크다스,CR,크라운제과,./images/snack/crown/쿠크다스 화이트.jpg
+SGJK1301,쿠크다스케이크,S,과자,GJ,과자,K1301,쿠크다스,CR,크라운제과,./images/snack/crown/쿠크다스 케이크.jpg
+DAGK1400,쿨피스 복숭아,D,음료,AG,액상과당,K1400,쿨피스,DW,(주)동원F&B,./images/drink/dongwon/쿨피스 복숭아.jpg
+DAGK1401,쿨피스 자두,D,음료,AG,액상과당,K1401,쿨피스,DW,(주)동원F&B,./images/drink/dongwon/쿨피스 자두.jpg
+DAGK1402,쿨피스 파인애플,D,음료,AG,액상과당,K1402,쿨피스,DW,(주)동원F&B,./images/drink/dongwon/쿨피스 파인애플.jpg
+SGJK1500,크라운산도 딸기,S,과자,GJ,과자,K1500,크라운산도,CR,크라운제과,./images/snack/crown/크라운산도 딸기.jpg
+SGJK1501,크라운산도 초코,S,과자,GJ,과자,K1501,크라운산도,CR,크라운제과,./images/snack/crown/크라운산도 초코.jpg
+SGJK1502,크라운산도 크림,S,과자,GJ,과자,K1502,크라운산도,CR,크라운제과,./images/snack/crown/크라운산도 크림.jpg
+SGJK1600,크라운츄러스,S,과자,GJ,과자,K1600,크라운츄러스,CR,㈜크라운제과 아산공장,./images/snack/crown/크라운츄러스.jpg
+RBJB0208,크림까르보불닭볶음면,R,라면,BJ,봉지라면,B0208,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/크림까르보불닭볶음면.jpg
+SGJE0301,크림웨하스,S,과자,GJ,과자,E0301,웨하스,HT,해태제과식품㈜ 청주공장,./images/snack/nongshim/크림웨하스.jpg
+RBJJ0103,크림진짬뽕,R,라면,BJ,봉지라면,J0103,진짬뽕,OT,오뚜기라면(주),./images/ramyeon/ottogi/크림진짬뽕.jpg
+RCPB0209,큰컵 까르보불닭볶음면,R,라면,CP,컵라면,B0209,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 까르보불닭볶음면.jpg
+RCPN0101,큰컵 나가사끼짬뽕,R,라면,CP,컵라면,N0101,나가사끼짬뽕,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 나가사끼짬뽕.png
+RCPB0210,큰컵 미트스파게티 불닭볶음면,R,라면,CP,컵라면,B0210,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 미트스파게티 불닭볶음면.jpg
+RCPB0211,큰컵 불닭볶음면,R,라면,CP,컵라면,B0211,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 불닭볶음면.jpg
+RCPB0212,큰컵 불닭볶음탕면,R,라면,CP,컵라면,B0212,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 불닭볶음탕면.png
+RCPS0603,큰컵 삼양라면 매운맛,R,라면,CP,컵라면,S0603,삼양라면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 삼양라면 매운맛.jpg
+RCPS0604,큰컵 삼양라면 오리지널,R,라면,CP,컵라면,S0604,삼양라면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 삼양라면 오리지널.jpg
+RCPB0213,큰컵 짜장불닭볶음면,R,라면,CP,컵라면,B0213,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 짜장불닭볶음면.jpg
+RCPB0214,큰컵 쫄볶이 불닭볶음면,R,라면,CP,컵라면,B0214,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 쫄볶이 불닭볶음면.jpg
+RCPB0215,큰컵 치즈불닭볶음면,R,라면,CP,컵라면,B0215,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 치즈불닭볶음면.png
+RCPB0216,큰컵 크림까르보불닭볶음면,R,라면,CP,컵라면,B0216,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/큰컵 크림까르보불닭볶음면.jpg
+RCPT0100,튀김우동큰사발,R,라면,CP,컵라면,T0100,튀김우동,NS,농심,./images/ramyeon/nongshim/튀김우동큰사발.jpg
+DTST0200,트레비 레몬,D,음료,TS,탄산음료,T0200,트레비,LC,롯데칠성음료(주),./images/drink/chilsung/트레비 레몬.jpg
+RBJT0300,틈새라면 빨계떡,R,라면,BJ,봉지라면,T0300,틈새라면,PD,팔도,./images/ramyeon/paldo/틈새라면 빨계떡.jpg
+RCPE3001,팔도 김치왕뚜껑,R,라면,CP,컵라면,E3001,왕뚜껑,PD,팔도,./images/ramyeon/paldo/팔도 김치왕뚜껑.jpg
+RCPE3000,팔도 왕뚜껑,R,라면,CP,컵라면,E3000,왕뚜껑,PD,팔도,./images/ramyeon/paldo/팔도 왕뚜껑.jpeg
+RBJT0301,팔도 틈새라면 매운김치,R,라면,BJ,봉지라면,T0301,틈새라면,PD,팔도,./images/ramyeon/paldo/팔도 틈새라면 매운김치.jpg
+RCPT0400,팔도김치도시락,R,라면,CP,컵라면,T0400,팔도김치도시락,PD,팔도,./images/ramyeon/paldo/팔도김치도시락.jpg
+RBJT0500,팔도비빔면,R,라면,BJ,봉지라면,T0500,팔도비빔면,PD,팔도,./images/ramyeon/paldo/팔도비빔면.jpg
+DTST0600,펩시콜라,D,음료,TS,탄산음료,T0600,펩시콜라,LC,롯데칠성음료(주),./images/drink/chilsung/펩시콜라.jpg
+DTST0601,펩시콜라 제로슈거,D,음료,TS,탄산음료,T0601,펩시콜라,LC,롯데칠성음료(주),./images/drink/chilsung/펩시콜라 제로슈거.jpg
+SGJT0700,포스틱,S,과자,GJ,과자,T0700,포스틱,NS,농심,./images/snack/nongshim/포스틱.jpg
+DHDT0800,포카리스웨트,D,음료,HD,혼합음료,T0800,포카리스웨트,DO,동아오츠카(주),./images/drink/donga/포카리스웨트.jpg
+DHDT0801,포카리스웨트 이온워터,D,음료,HD,혼합음료,T0801,포카리스웨트,DO,동아오츠카(주),./images/drink/donga/포카리스웨트 이온워터.jpg
+SGJT0900,포카칩 오리지널,S,과자,GJ,과자,T0900,포카칩,OR,㈜오리온 제4청주공장,./images/snack/nongshim/포카칩 오리지널.jpg
+SGJT0901,포카칩어니언맛,S,과자,GJ,과자,T0901,포카칩,OR,㈜오리온 제4청주공장,./images/snack/nongshim/포카칩 어니언.jpg
+SGJT1000,포키딸기,S,과자,GJ,과자,T1000,포키,HT,해태제과식품㈜ 천안2공장,./images/snack/nongshim/포키딸기.jpg
+SGJT1100,포테토칩 육개장사발면맛,S,과자,GJ,과자,T1100,포테토칩,NS,농심,./images/snack/nongshim/포테토칩 육개장사발면맛.jpg
+SGJT1200,프레첼 솔티카라멜맛,S,과자,GJ,과자,T1200,프레첼,NS,농심,./images/snack/nongshim/프레첼 솔티카라멜맛.jpg
+DTSH0100,핫식스,D,음료,TS,탄산음료,H0100,핫식스,LC,롯데칠성음료(주),./images/drink/chilsung/핫식스.jpg
+DTSH0101,핫식스 팬시캔디,D,음료,TS,탄산음료,H0101,핫식스,LC,롯데칠성음료(주),./images/drink/chilsung/핫식스 팬시캔디.jpg
+RBJB0217,핵불닭볶음면,R,라면,BJ,봉지라면,B0217,불닭볶음면,SY,삼양식품(주),./images/ramyeon/samyang/핵불닭볶음면.jpg
+SGJH0200,허니버터칩,S,과자,GJ,과자,H0200,허니버터칩,HT,해태가루비㈜ 제2공장,./images/snack/nongshim/허니버터칩.jpg
+SGJH0300,홈런볼 무지방 우유,S,과자,GJ,과자,H0300,홈런볼,HT,해태제과식품㈜,./images/snack/nongshim/홈런볼무지방우유.jpg
+DTSH0400,화이브미니,D,음료,TS,탄산음료,H0400,화이브미니,DO,동아오츠카(주),./images/drink/donga/화이브미니.jpg
+SWFH0500,화이트하임,S,과자,WF,웨이퍼,H0500,화이트하임,CR,크라운제과,./images/snack/crown/화이트하임.jpg
+DATH0600,황금보리,D,음료,AT,액상차,H0600,황금보리,LC,롯데칠성음료(주),./images/drink/chilsung/황금보리.jpg
+SGJH0700,후레쉬베리,S,과자,GJ,과자,H0700,후레쉬베리,OR,㈜오리온 제4청주공장,./images/snack/nongshim/후레쉬베리.jpg
+SGJH0701,후레쉬베리 복숭아,S,과자,GJ,과자,H0701,후레쉬베리,OR,㈜오리온 제4청주공장,./images/snack/nongshim/후레쉬베리 복숭아.jpg
+SBSH0800,후렌치파이딸기,S,과자,BS,비스킷,H0800,후렌치파이,HT,해태제과식품㈜,./images/snack/nongshim/후렌치파이딸기.jpg
+SBSH0801,후렌치파이사과,S,과자,BS,비스킷,H0801,후렌치파이,HT,해태제과식품㈜,./images/snack/nongshim/후렌치파이사과.jpg
+SBSB0701,흑당 빠다코코낫,S,과자,BS,비스킷,B0701,빠다코코낫,LT,롯데제과㈜,./images/snack/nongshim/흑당 빠다코코낫.jpg
+SSNJ1702,흑당짱구,S,과자,SN,스낵과자,J1702,짱구,SY,삼양식품㈜ 원주공장,./images/snack/nongshim/흑당짱구.jpg

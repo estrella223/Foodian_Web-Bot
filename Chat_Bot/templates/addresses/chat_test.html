@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<script src="/static/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="{% static 'js/main.js' %}" type="text/javascript"></script>
+    <script src="{% static 'js/jquery.js' %}" type="text/javascript"></script>
+    <script src="{% static 'js/bootstrap.js' %}" type="text/javascript"></script>
+
+<link href="{% static 'css/main.css' %}" rel="stylesheet">
+<link href="{% static 'css/main_popup.css' %}" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+<head>
+    <meta charset="UTF-8">
+    <title>푸디언 봇</title>
+</head>
+
+<body>
+
+<div class="container text-center">
+   <div class="row">
+      <div class="round hollow text-center">
+      <a href="#" class="popOpenBtnCmmn" data-num="1"><img src="{% static 'chat4.jpg' %}"> 푸디언봇 </a>
+      </div>
+   </div>
+</div>
+
+
+<div id="popUp_1" class="popCmmn">
+  <div class="popBg" data-num="1"></div>
+  <div class="popInnerBox" id="qnimate">
+<div class="chat_window">
+<div class="chat_header">
+        <div class="top_menu">
+    <div class="buttons">
+             <button data-widget="remove" id="removeClass" class="chat-header-button pull-right" type="button"
+             style="margin: 11px"><i class="glyphicon glyphicon-off"></i>
+             </button>
+    </div>
+     <div class="title">푸디언봇</div>
+</div>
+
+<div id="divbox" class="chat_content"></div>
+<form id="form" style="display: inline">
+    <input type="text" name="input1"
+           class="chat_input" id="input1"
+           placeholder="내용을 입력하세요."
+           size="90" style="display: inline; width: 500px; border-radius: 90px; border: 1px solid #666;" />
+    <input type="button" value="전송"
+           id="btn_submit" class="send_btn"
+           style="display: inline; border-radius: 90px;"  />
+</form>
+    </div>
+  </div>
+</div>
+</div>
+
+<!--<div class="message_template">-->
+<!--    <li class="message">-->
+<!--        <div class="avatar"><img src="{% static 'chat6.jpg' %}" style="width: 60px; height: 60px;"></div>-->
+<!--        <div class="text_wrapper">-->
+<!--            <div class="text"></div>-->
+<!--        </div>-->
+<!--    </li>-->
+<!--</div>-->
+
+<!--</div>-->
+<script>
+    $('#btn_submit').click(function () {
+        send();
+    });
+    $('#form').on('submit', function(e){
+       e.preventDefault();
+       send();
+    });
+    $('#close_chat_btn').on('click', function(){
+        $('#chat_wrap').hide().empty();
+    });
+
+</script>
+</body>
+</html>

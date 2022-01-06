@@ -1,0 +1,16 @@
+L_code,L_class,M_code,M_class,S_code,S_class,B_code,brand
+F,음료,AC,액상커피,G,ㄱ,CR,크라운
+A,과자,AG,액상과당,N,ㄴ,DO,동아오츠카
+R,라면,AT,액상차,D,ㄷ,DS,동서
+,,BJ,봉지라면,L,ㄹ,DW,동원
+,,BS,비스킷,M,ㅁ,GD,광동
+,,CA,크래커,B,ㅂ,HT,해태
+,,CK,쿠키,S,ㅅ,LC,롯데칠성
+,,CP,컵라면,E,ㅇ,LT,롯데
+,,FD,과채음료,J,ㅈ,NS,농심
+,,GJ,과자,C,ㅊ,OR,오리온
+,,GY,가공유,K,ㅋ,OT,오뚜기
+,,HD,혼합음료,T,ㅌ,PD,팔도
+,,SN,스낵과자,P,ㅍ,SY,삼양
+,,TS,탄산음료,H,ㅎ,,
+,,WF,웨이퍼,,,,

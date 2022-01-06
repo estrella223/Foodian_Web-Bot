@@ -1,0 +1,67 @@
+/* Code By Webdevtrick ( https://webdevtrick.com ) */
+/*body {
+  padding: 10%;
+  font-family: sans-serif;
+}*/
+
+
+button {
+  padding: 1em;
+  border: 0;
+  margin: 1em;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+}
+button.is-active {
+  -moz-transform: scale(1.15);
+  -ms-transform: scale(1.15);
+  -webkit-transform: scale(1.15);
+  transform: scale(1.15);
+}
+
+.s-red {
+  background: #f56a6a;
+}
+.s-red:hover {
+  background: #e90d00;
+}
+
+.s-green {
+  background: #2ecc40;
+}
+.s-green:hover {
+  background: #208e2c;
+}
+
+.s-blue {
+  background: #AAA6A9;
+}
+.s-blue:hover {
+  background: #535152;
+}
+
+.s-all {
+  background: #333;
+}
+.s-all:hover {
+  background: #0d0d0d;
+}
+
+.red, .green, .blue {
+  color: #fff;
+  padding: 1em;
+  margin-bottom: 0.25em;
+}
+
+.red {
+  background: #f56a6a;
+}
+
+.green {
+  background: #2ecc40;
+}
+
+.blue {
+  background: #AAA6A9;
+}
