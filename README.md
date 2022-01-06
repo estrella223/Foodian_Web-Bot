@@ -19,3 +19,8 @@
 
 * 실행 화면<br/>
 ![챗봇2](https://user-images.githubusercontent.com/89093279/148380109-747076c7-d6af-453d-bafb-10ecb491af55.PNG)
+
+-----
+
+### 🗃DB
+![그림02](https://user-images.githubusercontent.com/89093279/148382153-284b895a-100b-471a-82f8-97d1d63246dd.jpg)
