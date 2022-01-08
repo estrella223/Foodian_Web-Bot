@@ -1,5 +1,15 @@
 # Foodian_Web-Bot
 
+### 사용기술
+* PHP
+* Django
+* Python
+* MySQL
+* HTML
+* Css
+* JavaScript
+* Tensorflow
+
 ### 🌐WEB
 * Main<br/>
 ![메인페이지](https://user-images.githubusercontent.com/89093279/148379986-f6c3a853-420a-4007-bfa7-b086ce406807.PNG)
